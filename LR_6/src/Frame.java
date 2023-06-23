@@ -30,20 +30,13 @@ public class Frame extends JFrame {
         Random rand = new Random();
         List text = new List();
         // Добавление ответов на вопросы в list
-        text.add("курочкин");
-        text.add("сауда");
-        text.add("саня");
-        text.add("келИн");
-//        text.add("Да");
-//        text.add("Нет");
-//        text.add("Наверное нет");
-//        text.add("Ясен хуй");
-//        text.add("Рот закрой");
-//        text.add("Иди нахуй");
-//        text.add("Однозначно да");
-//        text.add("Наверное да");
-//        text.add("Точно нет");
-//        text.add("Точно да");
+        text.add("Да");
+        text.add("Нет");
+        text.add("Наверное нет");
+        text.add("Однозначно да");
+        text.add("Наверное да");
+        text.add("Точно нет");
+        text.add("Точно да");
 
 
 
