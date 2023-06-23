@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-03T15:56:34.835651500Z</date>
+  <millis>1667490994835</millis>
+  <nanos>651500</nanos>
+  <sequence>0</sequence>
+  <logger>Log</logger>
+  <level>INFO</level>
+  <class>ControllerTruck</class>
+  <method>StartProgram</method>
+  <thread>1</thread>
+  <message>Программа была запущена</message>
+</record>
+<record>
+  <date>2022-11-03T15:56:51.827759700Z</date>
+  <millis>1667491011827</millis>
+  <nanos>759700</nanos>
+  <sequence>1</sequence>
+  <logger>Log</logger>
+  <level>INFO</level>
+  <class>ControllerTruck</class>
+  <method>Menu</method>
+  <thread>1</thread>
+  <message>Программа была завершена.</message>
+</record>
+</log>

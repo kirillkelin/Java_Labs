@@ -1,0 +1,19 @@
+Start program: 15.11.2022 17:24:11
+add, ID = 1  10400 nsec
+add, ID = 2  200 nsec
+add, ID = 3  200 nsec
+add, ID = 4  200 nsec
+add, ID = 5  200 nsec
+add, ID = 6  100 nsec
+add, ID = 7  700 nsec
+add, ID = 8  500 nsec
+add, ID = 9  400 nsec
+add, ID = 10  500 nsec
+addTotalCount = 10
+addTotalTime = 13400 nsec
+addMedianTime = 1340 nsec
+remove, ID = 0  4500 nsec
+removeTotalCount = 1
+removeTotalTime = 4500
+removeMedianTime = 4500
+Finish program: 15.11.2022 17:24:11
